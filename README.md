@@ -11,4 +11,7 @@ C # fundamentals
 - dotnet new (shows templates)
 - to clear type : cls
 - create a directory called gradebook
-- cd gradbook
+- cd gradebook
+-  mkdir src (mkdir GradeBook), - dotnet new console
+- mkdir test
+- dotnet new console
