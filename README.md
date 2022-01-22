@@ -21,3 +21,4 @@ Steps 2
 - ..\..\
 - code . (to open vs code)
 - the main project will be in the GradeBook folder in the scr folder
+install the C # extension for vs code
