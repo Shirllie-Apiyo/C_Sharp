@@ -12,11 +12,12 @@ C # fundamentals
 - to clear type : cls
 - create a directory called gradebook
 - cd gradebook
--  mkdir src (mkdir GradeBook), - dotnet new console, -dir,     -  dotnet run (displays Hello, World)
+-  mkdir src (mkdir GradeBook),type: - dotnet new console, -dir,     
+-  type: dotnet run (displays Hello, World!)
 -  mkdir test
 
 Steps 2
 - go back to directories i.e type:
 - ..\..\
 - code . (to open vs code)
-  
+- the main project will be in the GradeBook folder in the scr folder
