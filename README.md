@@ -21,4 +21,8 @@ Steps 2
 - ..\..\
 - code . (to open vs code)
 - the main project will be in the GradeBook folder in the scr folder
-install the C # extension for vs code
+- install the C # extension for vs code
+- The code for hello world exists inthe porgram.cs folder inside GradeBook
+- if you are not yet directly in your folder you can type: dotnet run --project src\GradeBook
+
+
