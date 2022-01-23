@@ -24,5 +24,8 @@ Steps 2
 - install the C # extension for vs code
 - The code for hello world exists inthe porgram.cs folder inside GradeBook
 - if you are not yet directly in your folder you can type: dotnet run --project src\GradeBook
-
+- dotnet restore
+- NuGet - a package system that allows an application to take advantage of functionality & features that are in other bits of code that other devs have written and are contanied in NuGet packages
+- dotnet build is to compile your source code
+- dll output of C# compiler that contains code in binary(is in bin folder under debug).
 
