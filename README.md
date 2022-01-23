@@ -28,4 +28,7 @@ Steps 2
 - NuGet - a package system that allows an application to take advantage of functionality & features that are in other bits of code that other devs have written and are contanied in NuGet packages
 - dotnet build is to compile your source code
 - dll output of C# compiler that contains code in binary(is in bin folder under debug).
+- type: dir to see which folders or subfolders exist
+- obj contains temporary files that are put together during build and restore
+
 
